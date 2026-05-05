@@ -92,6 +92,8 @@ Link to an amendment published at 91 FR 21668, Apr. 22, 2026.
 (2) Disclosures in electronic form. The disclosures required by this part that are required to be given in writing may be provided to the applicant in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq.). Where the disclosures under §§1002.5(b)(1), 1002.5(b)(2), 1002.5(d)(1), 1002.5(d)(2), 1002.13, and 1002.14(a)(2) accompany an application accessed by the applicant in electronic form, these disclosures may be provided to the applicant in electronic form on or with the application form, without regard to the consumer consent or other provisions of the E-Sign Act.
 (e) Foreign-language disclosures. Disclosures may be made in languages other than English, provided they are available in English upon request.
 §1002.5 Rules concerning requests for information.
+Cross Reference
+Link to an amendment published at 91 FR 23604, May 1, 2026.
 (a) General rules-
 (1) Requests for information. Except as provided in paragraphs (b) through (d) of this section, a creditor may request any information in connection with a credit transaction. This paragraph does not limit or abrogate any Federal or state law regarding privacy, privileged information, credit reporting limitations, or similar restrictions on obtainable information.
 (2) Required collection of information. Notwithstanding paragraphs (b) through (d) of this section, a creditor shall request information for monitoring purposes as required by §1002.13 for credit secured by the applicant's dwelling. In addition, a creditor may obtain information required by a regulation, order, or agreement issued by, or entered into with, a court or an enforcement agency (including the Attorney General of the United States or a similar state official) to monitor or enforce compliance with the Act, this part, or other Federal or state statutes or regulations.
@@ -339,6 +341,8 @@ Link to an amendment published at 91 FR 21669, Apr. 22, 2026.
 (1) To facilitate enforcement of fair lending laws; and
 (2) To enable communities, governmental entities, and creditors to identify business and community development needs and opportunities of women-owned, minority-owned, and small businesses.
 §1002.102 Definitions.
+Cross Reference
+Link to an amendment published at 91 FR 23605, May 1, 2026.
 In this subpart:
 (a) Affiliate means, with respect to a financial institution, any company that controls, is controlled by, or is under common control with, another company, as set forth in the Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.). With respect to a business or an applicant, affiliate shall have the same meaning as in 13 CFR 121.103.
 (b) Applicant means any person who requests or who has received an extension of business credit from a financial institution.
@@ -365,6 +369,8 @@ In this subpart:
 (1) Reevaluation, extension, or renewal requests on an existing business credit account, unless the request seeks additional credit amounts.
 (2) Inquiries and prequalification requests.
 §1002.104 Covered credit transactions and excluded transactions.
+Cross Reference
+Link to an amendment published at 91 FR 23605, May 1, 2026.
 (a) Covered credit transaction means an extension of business credit that is not an excluded transaction under paragraph (b) of this section.
 (b) Excluded transactions. The requirements of this subpart do not apply to:
 (1) Trade credit. A financing arrangement wherein a business acquires goods or services from another business without making immediate payment in full to the business providing the goods or services.
@@ -374,14 +380,20 @@ In this subpart:
 (5) Securities credit. Securities credit as defined in §1002.3(b)(1).
 (6) Incidental credit. Incidental credit as defined in §1002.3(c)(1), but without regard to whether the credit is consumer credit, as defined in §1002.2(h).
 §1002.105 Covered financial institutions and exempt institutions.
+Cross Reference
+Link to an amendment published at 91 FR 23605, May 1, 2026.
 (a) Financial institution means any partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity that engages in any financial activity.
 (b) Covered financial institution means a financial institution that originated at least 100 covered credit transactions for small businesses in each of the two preceding calendar years.
 §1002.106 Business and small business.
+Cross Reference
+Link to an amendment published at 91 FR 23605, May 1, 2026.
 (a) Business has the same meaning as the term “business concern or concern” in 13 CFR 121.105.
 (b) Small business definition-
 (1) Small business has the same meaning as the term “small business concern” in 15 U.S.C. 632(a), as implemented in 13 CFR 121.101 through 121.107. Notwithstanding the size standards set forth in 13 CFR 121.201, for purposes of this subpart, a business is a small business if its gross annual revenue, as defined in §1002.107(a)(14), for its preceding fiscal year is $5 million or less.
 (2) Inflation adjustment. Every 5 years after January 1, 2025, the gross annual revenue threshold set forth in paragraph (b)(1) of this section shall adjust based on changes to the Consumer Price Index for All Urban Consumers (U.S. city average series for all items, not seasonally adjusted), as published by the United States Bureau of Labor Statistics. Any adjustment that takes effect under this paragraph shall be rounded to the nearest multiple of $500,000. If an adjustment is to take effect, it will do so on January 1 of the following calendar year.
 §1002.107 Compilation of reportable data.
+Cross Reference
+Link to an amendment published at 91 FR 23605, May 1, 2026.
 (a) Data format and itemization. A covered financial institution shall compile and maintain data regarding covered applications from small businesses. The data shall be compiled in the manner prescribed herein and the Filing Instructions Guide for this subpart for the appropriate year. The data compiled shall include the items described in paragraphs (a)(1) through (20) of this section.
 (1) Unique identifier. An alphanumeric identifier, starting with the legal entity identifier of the financial institution, unique within the financial institution to the specific covered application, and which can be used to identify and retrieve the specific file or files corresponding to the application for or extension of credit.
 (2) Application date. The date the covered application was received or the date shown on a paper or electronic application form.
@@ -437,6 +449,8 @@ In this subpart:
 (1) To satisfy paragraphs (a)(13) and (a)(15) through (20) of this section, the data were collected within the 36 months preceding the current covered application, or to satisfy paragraph (a)(14) of this section, the data were collected within the same calendar year as the current covered application; and
 (2) The financial institution has no reason to believe the data are inaccurate.
 §1002.108 Firewall.
+Cross Reference
+Link to an amendment published at 91 FR 23606, May 1, 2026.
 (a) Definitions. For purposes of this section, the following terms shall have the following meanings:
 (1) Involved in making any determination concerning a covered application from a small business means participating in a decision regarding the evaluation of a covered application from a small business or the creditworthiness of a small business applicant for a covered credit transaction.
 (2) Should have access means that an employee or officer may need to collect, see, consider, refer to, or otherwise use the information to perform that employee's or officer's assigned job duties.
@@ -478,10 +492,14 @@ In this subpart:
 (1) Disclosure by a financial institution. A financial institution shall not disclose or provide to a third party the information it collects pursuant to §1002.107(a)(18) and (19) except to further compliance with the Act or this part or as required by law.
 (2) Disclosure by a third party. A third party that obtains information collected pursuant to §1002.107(a)(18) and (19) for the purpose of furthering compliance with the Act or this part is prohibited from any further disclosure of such information except to further compliance with the Act or this part or as required by law.
 §1002.111 Recordkeeping.
+Cross Reference
+Link to an amendment published at 91 FR 23606, May 1, 2026.
 (a) Record retention. A covered financial institution shall retain evidence of compliance with this subpart, which includes a copy of its small business lending application register, for at least three years after the register is required to be submitted to the Bureau pursuant to §1002.109.
 (b) Certain information kept separate from the rest of the application. A financial institution shall maintain, separately from the rest of the application and accompanying information, an applicant's responses to the financial institution's inquiries pursuant to this subpart regarding whether an applicant for a covered credit transaction is a minority-owned business, a women-owned business, and/or an LGBTQI+-owned business under §1002.107(a)(18), and regarding the ethnicity, race, and sex of the applicant's principal owners under §1002.107(a)(19).
 (c) Limitation on personally identifiable information in certain records retained under this section. In reporting a small business lending application register pursuant to §1002.109, maintaining the register pursuant to paragraph (a) of this section, and maintaining a separate record of information pursuant to paragraph (b) of this section, a financial institution shall not include any name, specific address, telephone number, email address, or any other personally identifiable information concerning any individual who is, or is connected with, an applicant, other than as required pursuant to §1002.107 or paragraph (b) of this section.
 §1002.112 Enforcement.
+Cross Reference
+Link to an amendment published at 91 FR 23606, May 1, 2026.
 (a) Administrative enforcement and civil liability. A violation of section 704B of the Act or this subpart is subject to administrative sanctions and civil liability as provided in sections 704 (15 U.S.C. 1691c) and 706 (15 U.S.C. 1691e) of the Act, where applicable.
 (b) Bona fide errors. A bona fide error in compiling, maintaining, or reporting data with respect to a covered application is one that was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error. A bona fide error is not a violation of the Act or this subpart. A financial institution is presumed to maintain procedures reasonably adapted to avoid such errors with respect to a given data field if the number of errors found in a random sample of the financial institution's submission for the data field does not equal or exceed a threshold specified by the Bureau for this purpose in appendix F to this part. However, an error is not a bona fide error if either there is a reasonable basis to believe the error was intentional or there is evidence that the financial institution does not or has not maintained procedures reasonably adapted to avoid such errors.
 (c) Safe harbors-
@@ -494,6 +512,8 @@ In this subpart:
 §1002.113 Severability.
 If any provision of this subpart, or any application of a provision, is stayed or determined to be invalid, the remaining provisions or applications are severable and shall continue in effect.
 §1002.114 Effective date, compliance date, and special transitional rules.
+Cross Reference
+Link to an amendment published at 91 FR 23606, May 1, 2026.
 (a) Effective date. The effective date for this subpart is August 29, 2023.
 (b) Compliance date. The dates by which covered financial institutions are initially required to comply with the requirements of this subpart are as follows:
 (1) A covered financial institution that originated at least 2,500 covered credit transactions for small businesses in each of calendar years 2022 and 2023 shall comply with the requirements of this subpart beginning July 1, 2026.
@@ -712,7 +732,11 @@ Appendix D to Part 1002-Issuance of Official Interpretations
 2. Requests for Issuance of Official Interpretations. A request for an official interpretation should be in writing and addressed to the Assistant Director, Office of Regulations, Division of Research, Monitoring, and Regulations, Bureau of Consumer Financial Protection, 1700 G Street, NW., Washington, DC 20552. The request should contain a complete statement of all relevant facts concerning the issue, including copies of all pertinent documents.
 3. Scope of Interpretations. No interpretations will be issued approving creditors' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.
 Appendix E to Part 1002-Sample Form for Collecting Certain Applicant-Provided Data Under Subpart B
+Cross Reference
+Link to an amendment published at 91 FR 23607, May 1, 2026.
 Appendix F to Part 1002-Tolerances for Bona Fide Errors in Data Reported Under Subpart B
+Cross Reference
+Link to an amendment published at 91 FR 23607, May 1, 2026.
 As set out in §1002.112(b) and in comment 112(b)-1, a financial institution is presumed to maintain procedures reasonably adapted to avoid errors with respect to a given data field if the number of errors found in a random sample of a financial institution's data submission for a given data field do not equal or exceed the threshold in column C of the following table (Table 1, Tolerance Thresholds for Bona Fide Errors):
 Table 1 to Appendix F-Tolerance Thresholds for Bona Fide Errors
 Small business lending application register count
@@ -756,6 +780,8 @@ Footnotes-
 Appendix F to Part 1002
 [986] For a financial institution with fewer than 30 entries in its small business lending application register, the full sample size is the financial institution's total number of entries. The threshold number for such financial institutions remains three. Accordingly, the threshold percentage will be higher for financial institutions with fewer than 30 entries in their registers
 Supplement I to Part 1002-Official Interpretations
+Cross Reference
+Link to an amendment published at 91 FR 23609, May 1, 2026.
 Cross Reference
 Link to an amendment published at 91 FR 21669, Apr. 22, 2026.
 Following is an official interpretation of Regulation B (12 CFR part 1002) issued by the Bureau of Consumer Financial Protection. References are to sections of the regulation or the Equal Credit Opportunity Act (15 U.S.C. 1601 et seq.).
